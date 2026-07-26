@@ -50,7 +50,6 @@ The **EV Dashboard System** is an Embedded Systems Internship project that simul
 - PICSimLab
 - Python
 - VSPE (Virtual Serial Port Emulator)
-- GitHub
 
 ---
 
